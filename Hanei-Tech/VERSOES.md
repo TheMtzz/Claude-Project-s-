@@ -2,7 +2,7 @@
 
 Site da Hanei Tech (padrão da empresa) e área da equipe.
 
-**Versão atual: V8**
+**Versão no ar: V8 (haneitech.com.br)**
 
 | Versão | Arquivo |
 |---|---|
@@ -12,6 +12,6 @@ Site da Hanei Tech (padrão da empresa) e área da equipe.
 | V5 | `Hanei-Tech-Site-V5.zip` |
 | V6 | `Hanei-Tech-Site-V6.zip` |
 | V7 | `Hanei-Tech-Site-V7.zip` |
-| V8 (atual) | `Hanei-Tech-Site-V8.zip` |
+| V8 | `Hanei-Tech-Site-V8.zip` |
 
-Cada zip é o site pronto (arraste em app.netlify.com/drop). O código-fonte fica guardado fora deste repositório.
+Cada zip é o site pronto (arraste em app.netlify.com/drop). O código-fonte fica fora deste repositório. Só entram aqui versões que já foram ao ar.
