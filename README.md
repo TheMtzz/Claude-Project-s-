@@ -9,6 +9,7 @@ Sites publicados pela Hanei Tech. Uma pasta por projeto, com as versões (zips) 
 | [Hanei Veiculos](Hanei-Veiculos/) | V1 | Modelo de site de concessionária (Hanei Veículos). |
 | [Hanei Motorsport Premium](Hanei-Motorsport-Premium/) | V2 (V3 pronta) | Modelo de concessionária premium (estilo Porsche) com catálogo e área do funcionário. Modo demonstração. |
 | [Cão do Bem](Cao-do-Bem/) | V1.1 (pronta) | Modelo de pet shop e veterinário com agenda, carrinho com Pix de exemplo e área do funcionário. Modo demonstração. |
+| [Beauty Care](Beauty-Care/) | V1 (pronta) | Modelo de salão de beleza com agenda por WhatsApp. Modo demonstração. |
 | [Maias Garage](Maias-Garage/) | V1 | Site do Maia's Garage (estética automotiva). |
 | [Look de Festas](Look-de-Festas/) | V1 | Site da Look de Festas. |
 | [Ronald Barber](Ronald-Barber/) | V1 | Site da Ronald Barber. |
