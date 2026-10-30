@@ -11,6 +11,7 @@ Sites publicados pela Hanei Tech. Uma pasta por projeto, com as versões (zips) 
 | [Cão do Bem](Cao-do-Bem/) | V1.1 (pronta) | Modelo de pet shop e veterinário com agenda, carrinho com Pix de exemplo e área do funcionário. Modo demonstração. |
 | [Beauty Care](Beauty-Care/) | V1 (pronta) | Modelo de salão de beleza com agenda por WhatsApp. Modo demonstração. |
 | [Hanei Auto Detailing](Hanei-Auto-Detailing/) | V1 (pronta) | Modelo de estética automotiva com agenda por WhatsApp. Modo demonstração. |
+| [Das Duas Store](Das-Duas-Store/) | V1 (pronta) | Landing page de demonstração de loja de moda feminina, com catálogo sem valores e pedido por WhatsApp. |
 | [Maias Garage](Maias-Garage/) | V1 | Site do Maia's Garage (estética automotiva). |
 | [Look de Festas](Look-de-Festas/) | V1 | Site da Look de Festas. |
 | [Ronald Barber](Ronald-Barber/) | V1 | Site da Ronald Barber. |
